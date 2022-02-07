@@ -7,6 +7,78 @@
             "synopsis": "En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone marie sa fille à un bookmaker. Sollozzo, parrain de la famille Tattaglia, propose à Don Vito une association dans le trafic de drogue...",
             "director": "Francis Ford Coppola",
             "price": "15.99"
+        },
+        {
+            "_id": "6183a7939d59f4163e303154",
+            "title": "Man on the moon",
+            "image": "https://media1.woopic.com/api/v1/images/174%2Faudiovisual%2Fmovie%2F192%2Fa14%2F4331d6d73b5e6ddb44488cda44%2Fmovies-23152-21439783.jpg?format=822x700&quality=85",
+            "synopsis": "La carrière du comique américain Andy Kaufman, mort en 1984 d'un cancer du poumon. Né à New York en 1949, il débute dans de nombreux cabarets avant de se faire remarquer à la télévision dans la célèbre émission Saturday Night Live.",
+            "director": "Milos Forman",
+            "price": "15.99"
+        },
+        {
+            "_id": "6183a7939d59f4163e303155",
+            "title": "Reservoir Dogs",
+            "image": "https://fr.web.img6.acsta.net/medias/nmedia/18/35/49/60/18869530.jpg",
+            "synopsis": "Après un hold-up manqué, des cambrioleurs de haut vol font leurs comptes dans une confrontation violente, pour découvrir lequel d'entre eux les a trahis.",
+            "director": "Quentin Tarantino",
+            "price": "15.99"
+        },
+        {
+            "_id": "6183b5df5ae4f35798d37efb",
+            "title": "Le kid",
+            "image": "https://www.telerama.fr/sites/tr_master/files/89c6c597-bb6c-42f4-ae88-a741daa0be1a_2.jpg",
+            "synopsis": "Lâchée par son amant, une jeune femme abandonne son enfant. Charlot le vagabond le recueille. Mais les services sociaux s’en mêlent...",
+            "director": "Charles Chaplin",
+            "price": "15.99"
+        },
+        {
+            "_id": "6183b6825ae4f35798d37eff",
+            "title": "Sherlock Junior",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Sherlock_jr_poster.jpg",
+            "synopsis": "Projectionniste dans un modeste cinéma, amoureux de la fille de son patron, un homme rêve de devenir un grand détective. Un jour, tandis qu'il rend visite à la demoiselle de ses pensées pour lui offrir une bague, son rival dérobe la montre du père, la place chez un prêteur sur gages puis glisse le billet dans la poche du pauvre amoureux.",
+            "director": "Buster Keaton",
+            "price": "15.99"
+        },
+        {
+            "_id": "6183b6cd5ae4f35798d37f01",
+            "title": "Scream",
+            "image": "https://fr.web.img3.acsta.net/medias/nmedia/18/36/12/88/18454857.jpg",
+            "synopsis": "Casey Becker, une belle adolescente, est seule dans la maison familiale. Elle s'apprête à regarder un film d'horreur, mais le téléphone sonne. Au bout du fil, un serial killer la malmène...",
+            "director": "Wes Craven",
+            "price": "15.99"
+        },
+        {
+            "_id": "6186a8f73ca4875e491ee39e",
+            "title": "Vol au dessus d'un nid de coucou",
+            "image": "https://www.telerama.fr/sites/tr_master/files/2e36fde2-b9f5-4df4-8f18-4dee71405d3c_2.jpg",
+            "synopsis": "Rebellion dans un hôpital psychiatrique à l'instigation d'un malade qui se révolte contre la dureté d'une infirmière.",
+            "director": "Milos Forman",
+            "price": "15.99"
+        },
+        {
+            "_id": "6186aaa0f77f316d92d8a049",
+            "title": "Dark Crystal",
+            "image": "https://media.senscritique.com/media/000017258442/source_big/Dark_Crystal.jpg",
+            "synopsis": "Jen et Kira partent à la recherche d'un éclat de cristal gigantesque qui donne force et puissance aux Mystiques, un peuple sage et pacifique.",
+            "director": "Jim Henson et Frank Oz",
+            "price": "15.99"
+        },
+        {
+            "_id": "6186aad8f77f316d92d8a04b",
+            "title": "Forrest Gump",
+            "image": "https://media.senscritique.com/media/000019975169/source_big/Forrest_Gump.jpg",
+            "synopsis": "A Savannah, dans l'Etat de Géorgie, Forrest Gump, assis sur un banc public, livre à qui veut l'entendre, l'étrange récit de sa vie mouvementée. Il naît dans un bourg de l'Alabama, affecté d'un quotient intellectuel inférieur à la moyenne et d'une paralysie partielle des jambes. Souvent raillé à l'école, le jeune Forrest se lie d'amitié avec la belle Jenny. Ensemble, ils vont grandir dans l'Amérique des années 1960.",
+            "director": "Robert Zemeckis",
+            "price": "15.99"
+        },
+        {
+            "_id": "6186ab0af77f316d92d8a04d",
+            "title": "Les Vacances de M. Hulot",
+            "image": "https://media.senscritique.com/media/000019000926/source_big/Les_Vacances_de_M_Hulot.jpg",
+            "synopsis": "Monsieur Hulot arrive en vacances dans un paisible hôtel familial au bord de la mer mais commence à enchainer les gaffes.",
+            "director": "Jacques Tati ",
+            "price": "15.99"
         }
     ]
 }
