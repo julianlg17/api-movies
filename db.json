@@ -1,0 +1,12 @@
+{
+    "movies": [
+        {
+            "_id": "6183a5aa9d59f4163e30314e",
+            "title": "Le parrain",
+            "image": "https://fr.web.img4.acsta.net/medias/nmedia/18/35/57/73/18660716.jpg",
+            "synopsis": "En 1945, à New York, les Corleone sont une des cinq familles de la mafia. Don Vito Corleone marie sa fille à un bookmaker. Sollozzo, parrain de la famille Tattaglia, propose à Don Vito une association dans le trafic de drogue...",
+            "director": "Francis Ford Coppola",
+            "price": "15.99"
+        }
+    ]
+}
